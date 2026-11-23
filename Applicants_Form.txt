@@ -1,0 +1,47 @@
+Name,Manager Type,Department
+Kate Summer,Staff,IT Support
+Ken Winter,Staff,IT Support
+James Anderson,Manager,Sales
+Sarah Johnson,Manager,HR
+John Smith,Senior Manager,Finance
+Emily Brown,Staff,Marketing
+Michael Williams,Staff,IT Support
+Sophia Taylor,Staff,IT Support
+David Wilson,Staff,IT Support
+Olivia Martinez,Staff,Finance
+Ethan Anderson,Staff,Finance
+Mia Clark,Staff,Operations
+John Anderson,Manager,Sales
+Sam Johnson,Manager,HR
+John Brown,Manager,Finance
+Emma Brown,Staff,Marketing
+Max Williams,Staff,IT Support
+Sonya Taylor,Staff,Customer Service
+Denis Wilson,Manager,IT Support
+Olga Martinez,Staff,Finance
+Ed Anderson,Staff,Finance
+Milla Clark,Staff,Operations
+Sophia Lopez,Staff,Sales
+Benjamin Hill,Senior Manager,Customer Service
+Jessica Lee,Senior Manager,IT Support
+Daniel Walker,Staff,Operations
+Eleanor Harris,Staff,Marketing
+Chris Evans,Staff,Customer Service
+Alex Turner,Staff,IT Support
+Nina Holmes,Staff,Finance
+Victor Stewart,Staff,IT Support
+Lucy Bennett,Staff,HR
+Oscar Reed,Staff,Finance
+Lana Parker,Staff,Marketing
+Harry Cooper,Staff,Sales
+Isla Fisher,Staff,Operations
+Leo Wright,Staff,IT Support
+Eva Mitchell,Staff,Customer Service
+Ryan Carter,Staff,Operations
+Holly Brooks,Staff,IT Support
+Daniel Gray,Team Lead,Sales
+Layla Jones,Staff,Finance
+Sebastian Morgan,Staff,HR
+Elena Scott,Staff,IT Support
+Finn Walker,Staff,Customer Service
+Amelia King,Staff,Marketing
